@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sentences>
+  <sentence id="1">
+    <english>He is a kind teacher.</english>
+    <structure>Subject Adjective Noun</structure>
+  </sentence>
+  <sentence id="2">
+    <english>I eat rice and watch TV.</english>
+    <structure>Subject Verb Object Verb</structure>
+  </sentence>
+  <sentence id="3">
+    <english>I study Japanese every day.</english>
+    <structure>Subject Adverb Verb</structure>
+  </sentence>
+  <sentence id="4">
+    <english>This apple is sweet.</english>
+    <structure>Subject Object Adjective</structure>
+  </sentence>
+  <sentence id="5">
+    <english>I will not go to school today.</english>
+    <structure>Time Subject Verb</structure>
+  </sentence>
+  <sentence id="6">
+    <english>I played in the park yesterday.</english>
+    <structure>Time Location Subject Verb</structure>
+  </sentence>
+  <sentence id="7">
+    <english>I run in the park.</english>
+    <structure>Location Subject Verb</structure>
+  </sentence>
+  <sentence id="8">
+    <english>There is a dog under the table.</english>
+    <structure>Location Subject Verb</structure>
+  </sentence>
+  <sentence id="9">
+    <english>He studies at school.</english>
+    <structure>Location Subject Verb</structure>
+  </sentence>
+  <sentence id="10">
+    <english>She eats lunch at the restaurant.</english>
+    <structure>Location Subject Object Verb</structure>
+  </sentence>
+  <sentence id="11">
+    <english>I meet my friend at the station.</english>
+    <structure>Location Subject Object Verb</structure>
+  </sentence>
+  <sentence id="12">
+    <english>There is a cat in the room.</english>
+    <structure>Location Subject Verb</structure>
+  </sentence>
+</sentences>
