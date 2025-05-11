@@ -40,13 +40,15 @@ here are examples of user input and output, pay attention to the score because a
     <assistant:output>
     Let's work on the Japanese transcription.
     Here's the vocabulary table:
-    ｜ English	｜ Romaji ｜ Japanese｜ Chinese
-    ｜ bear ｜ kuma ｜ xióng (熊)
-    ｜ door	｜ doa ｜ mén (门)
-    ｜ garbage	｜ gomi	｜	lājī (垃圾)
-    ｜ to leave out	｜ dasu	｜ liú xià (留下), dàn zhè lǐ tè bié zhǐ de shì "chū" (出)
-    ｜ to be/exist (animate)｜ iru	｜ zài (在)
-    ｜ outside ｜ soto	｜ wài (外)
+    |English	|Romaji	|Japanese	|Chinese
+    |bear	|kuma	|熊	xióng (熊)
+    |door	|doa	|ドア	|mén (门)
+    |garbage	|gomi	|ゴミ	|lājī (垃圾)
+    |to leave out	|dasu	|出す	|liú chū (留出)
+    |to be/exist (animate)	|iru	|いる	|zài (在)
+    Meta AI Response: EnglishRomajiJapaneseChinesebearkuma熊xióng (熊)doordoaドアmén (门)garbagegomiゴミlājī (垃圾)to leave outdasu出すliú chū (留出)to be/exist (animate)iruいるzài (在)
+
+
     Possible sentence structure:
     Clause 1: [Subject] wa [Location]
     Clause 2: [You] wa [Object] o
@@ -62,3 +64,6 @@ here are examples of user input and output, pay attention to the score because a
 
 
 
+
+
+student input: did you see the raven this morning? they were looking at our garden.
