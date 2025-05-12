@@ -64,8 +64,7 @@ Can you speak slowly? ->	Noun (subject) + Verb + Adverb + Question particle
 here are examples of user inputs and assistant outputs, pay attention to the score and the score reason!!! so that you can output better.
 <examples>
     <example>
-        <use:input>bears are at the door, did you leave the gabage out.
-        </user:input>
+        <use:input>bears are at the door, did you leave the gabage out.</user:input>
         <score>8</score>
         <score_reason>
         important!!!
