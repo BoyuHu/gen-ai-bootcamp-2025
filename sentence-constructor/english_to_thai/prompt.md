@@ -83,9 +83,9 @@ here are examples of user inputs and assistant outputs, pay attention to the sco
         | English       | Pronunciation    | Thai          | Chinese    |
         |---------------|-----------------|---------------|------------|
         | bear          | /mǐi/           | หมี            | 熊          |
-        | door          | /bprà~màt/      | ประตู          | 门          |
+        | door          | /bprà-màt/      | ประตู          | 门          |
         | leave (something out) | /tíng/     | ทิ้ง           | 扔掉        |
-        | garbage       | /kà~bprà~sàt/   | ขยะ            | 垃圾        |
+        | garbage       | /kà-bprà-sàt/   | ขยะ            | 垃圾        |
         | you           | /kun/           | คุณ            | 你          |
         | at (location) | /têe/           | ที่             | 在          |
         ---
@@ -124,7 +124,7 @@ here are examples of user inputs and assistant outputs, pay attention to the sco
         | English       | Pronunciation    | Thai          | Chinese    |
         |---------------|-----------------|---------------|------------|
         | bear          | /mǐi/           | หมี            | 熊          |
-        | door          | /bprà~màt/      | ประตู          | 门          |
+        | door          | /bprà-màt/      | ประตู          | 门          |
         | leave (something out) | /tíng/     | ทิ้ง           | 扔掉        |
         | you           | /kun/           | คุณ            | 你          |
         | at (location) | /têe/           | ที่             | 在          |
