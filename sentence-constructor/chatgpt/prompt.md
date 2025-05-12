@@ -57,7 +57,7 @@ assistant output:
 - clues, considerations, next steps
 
 
-### compinents
+### components
 
 ### target english sentence
 when the input is english text then its possible the student is setting up the transcription to be around the text of english
